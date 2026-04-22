@@ -4,9 +4,9 @@ My security research is divided into two main areas: competitive smart contract 
 
 ### 🏆 Audit Competitions
 
-| Project / Protocol | Platform | Date | Technology | Scope | Result / Highlights |
+| Project | Platform | Date | Technology | Scope | Result |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Current Finance** | Sherlock | Mar 2026 | Solidity | DeFi | **2 Findings** <br> 🔹 *High* <br> 🔹 *Medium* |
+| **Current Finance** | Sherlock | Mar 2026 | Solidity | DeFi | [**2 Findings**](https://audits.sherlock.xyz/contests/1256?filter=results) <br> 🔹 *High* <br> 🔹 *Medium* |
 | **Overlayer SC DualDefense** | HackenProof | Apr 2026 | Solidity | DeFi | Private |
 
 
@@ -14,5 +14,5 @@ My security research is divided into two main areas: competitive smart contract 
 
 ### 🐛 Bug Bounties & Private Reviews
 
-| Project / Protocol | Platform | Date | Technology | Scope | Result / Status |
+| Project | Platform | Date | Technology | Scope | Result |
 | :--- | :--- | :--- | :--- | :--- | :--- |
